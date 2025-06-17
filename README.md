@@ -1,7 +1,8 @@
 Oi, eu sou a Carolina Diniz
 
 - 🔭 Hoje trabalho com infraestrutura, redes, office365, etc.
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 🌳 Análise e Desenvolvimento de Sistemas
+- 🌱 Product Owner em formação
 - 😄 Pronouns: ela/dela
 
 <div align="center">
